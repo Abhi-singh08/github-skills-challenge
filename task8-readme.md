@@ -1,0 +1,2 @@
+## 8. Limitations & Potential Improvements
+- **Threshold Staticity**: Current anomaly detection relies on fixed hardcoded thresholds. It can be improved by introducing dynamic, statistical baselining (e.g., moving averages or Z-score models) to handle normal traffic spikes without false positives.

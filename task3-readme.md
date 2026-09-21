@@ -1,0 +1,2 @@
+## 4. Anomaly-Detection Findings
+The rule-based detector flags records where metrics breach specified operational thresholds or log levels indicate errors (`ERROR`). It extracts the affected service, timestamp, reason, and severity.

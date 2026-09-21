@@ -1,0 +1,2 @@
+## 5. Event-Processing Flow
+`Operational Data` → `AnomalyDetector` → `Event Generation` → `EventProducer.publish()` → `EventTopic ("anomaly-events")` → `EventConsumer.consume()` → `Downstream AIOps Reporting`
